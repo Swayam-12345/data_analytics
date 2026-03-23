@@ -11,4 +11,4 @@ This project analyzes sales data...
 - HTML, MS Excel
 
 ## Live Demo
-index.html
+https://swayam-12345.github.io/data_analytics/
